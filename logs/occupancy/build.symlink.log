@@ -1,0 +1,4 @@
+Symlinking /home/bosch2/catkin_ws_2/devel/lib/occupancy/occupancy_node
+Symlinking /home/bosch2/catkin_ws_2/devel/lib/pkgconfig/occupancy.pc
+Symlinking /home/bosch2/catkin_ws_2/devel/share/occupancy/cmake/occupancyConfig-version.cmake
+Symlinking /home/bosch2/catkin_ws_2/devel/share/occupancy/cmake/occupancyConfig.cmake

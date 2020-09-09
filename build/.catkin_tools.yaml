@@ -1,0 +1,6 @@
+devel_space: /home/bosch2/catkin_ws_2/devel
+install: false
+install_space: /home/bosch2/catkin_ws_2/install
+profile: default
+source_space: /home/bosch2/catkin_ws_2/src
+workspace: /home/bosch2/catkin_ws_2
