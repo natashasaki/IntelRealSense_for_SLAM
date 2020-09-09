@@ -1,6 +1,6 @@
 # Intel Realsense Cameras to do SLAM
 
-This project involves using Intel Realsense D415 and T265 cameras to achieve SLAM (D435 camera should also work with this). Specifically, this is done using **rtabmap**. (SLAM using ocupancy mapping branch of realsense-ros instead of rtabmap discussed in excel file).
+This project involves using Intel Realsense D415 and T265 cameras to achieve SLAM (D435 camera should also work with this). Specifically, this is done using **rtabmap**. SLAM using ocupancy mapping branch of realsense-ros instead of rtabmap discussed in excel file.
 
 ## Getting Started
 
